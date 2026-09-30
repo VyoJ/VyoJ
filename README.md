@@ -1,6 +1,7 @@
 ## Hello there! I'm Vyoman
 
-### About Me
-CSE Student | Interested in Quantum Computing and GenAI | Full Stack Web Development
+MS (AI) student at **SUTD** and research intern at **A\*STAR**. Interned at **Apple**, **CognitiveLab** and **Sarvam AI**.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyoj&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+```math
+\lvert \psi_{\textsf{research}} \rangle = \frac{1}{\sqrt{2}} \left( \lvert {\color{#58a6ff}\textsf{Computer Vision }} \rangle + \lvert {\color{#a371f7}\textsf{AI Systems }} \rangle \right)
+```
